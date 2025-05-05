@@ -1,0 +1,29 @@
+{
+  "noticias": [
+    {
+      "titulo": "FURIA avança nos playoffs da IEM Katowice",
+      "data": "25 de abril de 2025",
+      "descricao": "O time de CS:GO da FURIA garantiu sua vaga nos playoffs ao vencer a Wildcard por 2–0 na última rodada do Play-In."
+    },
+    {
+      "titulo": "FURIA FC lidera a Kings League Brazil",
+      "data": "28 de abril de 2025",
+      "descricao": "Com uma campanha impressionante, a FURIA FC conquistou mais uma vitória contra o Capim FC, consolidando-se como líder da competição."
+    },
+    {
+      "titulo": "Lineup feminina da FURIA estreia com vitória",
+      "data": "20 de abril de 2025",
+      "descricao": "A nova equipe feminina de CS:GO da FURIA venceu sua estreia oficial contra a Imperial Feminina por 2–1."
+    },
+    {
+      "titulo": "FURIA anuncia parceria com marca de energia",
+      "data": "18 de abril de 2025",
+      "descricao": "A FURIA fechou uma parceria com a marca EnergyX, que será a patrocinadora oficial dos uniformes para 2025."
+    },
+    {
+      "titulo": "Equipe de Valorant da FURIA volta aos treinos",
+      "data": "10 de abril de 2025",
+      "descricao": "Após um curto recesso, o time de Valorant retomou os treinos visando o próximo torneio do circuito VCT Americas."
+    }
+  ]
+}
