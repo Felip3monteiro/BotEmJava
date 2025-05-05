@@ -148,7 +148,7 @@ Adoraríamos sua colaboração com o projeto! Para contribuir:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Seu Nome ou Equipe](https://github.com/seu-usuario)**.
+Desenvolvido por **[Felipe Monteiro Silveira](https://github.com/Felip3monteiro)**.
 
 ---
 
