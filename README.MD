@@ -2,7 +2,7 @@
 
 **⚠️ Projeto em Desenvolvimento.**
 
-👀 Fiz este bot como parte de um desafio pessoal e para uma **entrevista de emprego**. Também vi isso como uma oportunidade para me aprofundar no aprendizado de Java.
+👀 Fiz este bot como parte de um desafio pessoal e como uma oportunidade para me aprofundar no aprendizado de Java.
 
 ### 🛠️ Contexto
 - Este projeto foi implementado utilizando **Java 8**.
