@@ -20,7 +20,7 @@ public class NoticiasGeral {
 
     LocalDateTime data = LocalDateTime.now();
 
-    private static final String API_KEY = "96333c6cff0d40a4baf8e9df870ebf8e"; // Armazenando o código da API
+    private static final String API_KEY = ""; // Armazenando o código da API
     private static final String API_URL = "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey="+API_KEY; // URL da API
 
     public String buscaNoticias() {
