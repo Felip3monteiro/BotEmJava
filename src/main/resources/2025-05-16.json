@@ -1,0 +1,240 @@
+{"noticias": {
+    "totalResults": 30,
+    "articles": [
+        {
+            "publishedAt": "2025-05-15T20:30:00Z",
+            "author": "WSJ",
+            "urlToImage": null,
+            "description": null,
+            "source": {
+                "name": "The Wall Street Journal",
+                "id": "the-wall-street-journal"
+            },
+            "title": "Stock Market News Today: Dow Moves Higher; Walmart Says It Will Raises Prices Due to Tariffs \u2014 Live Updates - WSJ",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-tariffs-trade-war-05-15-2025",
+            "content": null
+        },
+        {
+            "publishedAt": "2025-05-15T20:26:00Z",
+            "author": "Brian Evans, Scott Schnipper",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108145462-17472353652025-05-14t150508z_388617185_rc2qhea8z7of_rtrmadp_0_usa-stocks.jpeg?v=1747328663&w=1920&h=1080",
+            "description": "The broad market index ended Thursday higher, posting a fourth straight day of gains.",
+            "source": {
+                "name": "CNBC",
+                "id": null
+            },
+            "title": "S&P 500 closes higher for a fourth day, Dow jumps more than 250 points: Live updates - CNBC",
+            "url": "https://www.cnbc.com/2025/05/14/stock-market-today-live-updates.html",
+            "content": "The S&amp;P 500 climbed for a fourth session, adding to this week's rally after the U.S. and China agreed to temporarily slash tariff rates. Treasury yields also fell, providing a tailwind to stocks.\u2026 [+2480 chars]"
+        },
+        {
+            "publishedAt": "2025-05-15T20:17:00Z",
+            "author": "Alexandra Semenova",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwyFOzVYNvdc/v0/1200x800.jpg",
+            "description": "President Donald Trump\u2019s tariffs announcement on April 2 devastated financial assets, wiping out some $6 trillion in market value from US stocks in just two trading days. Wall Street\u2019s \u201csmart money\u201d \u2014 hedge funds and other professional investors \u2014 dumped equi\u2026",
+            "source": {
+                "name": "Bloomberg",
+                "id": "bloomberg"
+            },
+            "title": "Smart Money Loses to Retail Crowd That Bet on Stock Rebound - Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2025-05-15/smart-money-loses-to-retail-crowd-that-bet-on-epic-stock-rebound",
+            "content": "President Donald Trumps tariffs announcement on April 2 devastated financial assets, wiping out some $6 trillion in market value from US stocks in just two trading days. Wall Streets smart money hedg\u2026 [+436 chars]"
+        },
+        {
+            "publishedAt": "2025-05-15T19:07:54Z",
+            "author": "Chris Eudaily, Kristina Partsinevelos",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108146119-1747323028417-gettyimages-2214589982-AA_15052025_2233445.jpeg?v=1747339475&w=1920&h=1080",
+            "description": "The announcement comes as President Donald Trump visited the United Arab Emirates as part of a broader trip to the Middle East.",
+            "source": {
+                "name": "CNBC",
+                "id": null
+            },
+            "title": "White House announces AI data campus partnership with the UAE - CNBC",
+            "url": "https://www.cnbc.com/2025/05/15/white-house-announces-ai-data-campus-partnership-with-the-uae.html",
+            "content": "The U.S. and United Arab Emirates are partnering on a massive artificial intelligence campus touted as the largest such facility outside the U.S., the White House said Thursday.\r\nThe Abu Dhabi data c\u2026 [+1161 chars]"
+        },
+        {
+            "publishedAt": "2025-05-15T18:22:00Z",
+            "author": "AP News",
+            "urlToImage": null,
+            "description": null,
+            "source": {
+                "name": "Associated Press",
+                "id": "associated-press"
+            },
+            "title": "Coinbase said cyber crooks stole customer information and demanded $20 million ransom payment - AP News",
+            "url": "https://apnews.com/article/coinbase-hack-crypto-exchange-ransom-e3ef5297dfea296eb7b7320d8c58647e",
+            "content": null
+        },
+        {
+            "publishedAt": "2025-05-15T17:24:30Z",
+            "author": "Jasper Goodman",
+            "urlToImage": "https://www.politico.com/dims4/default/9c29ecb/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc3%2Fb3%2Fb31abb9b4ae5bf0f78f2c9dcbd72%2Fu-s-congress-34569.jpg",
+            "description": "The new draft could represent a breakthrough in talks over the crypto bill.",
+            "source": {
+                "name": "Politico",
+                "id": "politico"
+            },
+            "title": "Negotiators circulate revised text of Senate crypto bill - Politico",
+            "url": "https://www.politico.com/live-updates/2025/05/15/congress/crypto-deal-senate-bill-stablecoin-00349846",
+            "content": null
+        },
+        {
+            "publishedAt": "2025-05-15T16:15:57Z",
+            "author": "Courtenay Brown",
+            "urlToImage": "https://images.axios.com/8fgcV33hgbAvczISoyJ60J5AVLQ=/0x0:1920x1080/1366x768/2025/05/15/1747322508871.jpg",
+            "description": "None of the typical indicators show the trade war causing consumer spending to falter or prices to spike.",
+            "source": {
+                "name": "Axios",
+                "id": "axios"
+            },
+            "title": "Hard data suggests tariff-driven inflation and recession fears may be overblown - Axios",
+            "url": "https://www.axios.com/2025/05/15/tariffs-inflation-recession-data",
+            "content": "With major indicators from April the month of peak tariff uncertainty now in, none show the kinds of recessionary or inflationary conditions implied by business and consumer surveys.\r\nWhy it matters:\u2026 [+2590 chars]"
+        },
+        {
+            "publishedAt": "2025-05-15T16:02:00Z",
+            "author": "Barron's",
+            "urlToImage": null,
+            "description": null,
+            "source": {
+                "name": "Barron's",
+                "id": null
+            },
+            "title": "Foot Locker Stock Soars 83% on Buyout Deal. Why Dick\u2019s Has Dropped 16%. - Barron's",
+            "url": "https://www.barrons.com/articles/foot-locker-stock-price-dicks-deal-858885b1",
+            "content": null
+        },
+        {
+            "publishedAt": "2025-05-15T15:59:20Z",
+            "author": "Alana Wise",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F09%2Fc620caa141548b1c569d30d7e575%2Fap23346719108217.jpg",
+            "description": "Customers are encouraged to stop using several eye irritation products, including gels and artificial tears.",
+            "source": {
+                "name": "NPR",
+                "id": null
+            },
+            "title": "AvKare recalls over-the-counter eye drops after FDA audit - NPR",
+            "url": "https://www.npr.org/2025/05/15/g-s1-66631/avkare-recall-over-the-counter-eye-drops-fda",
+            "content": "Pharmaceutical company AvKare has issued a voluntary recall on several of its over-the-counter products for dry and irritated eyes, citing regulatory \"deviations\" identified during an audit by the Fo\u2026 [+1443 chars]"
+        },
+        {
+            "publishedAt": "2025-05-15T15:48:49Z",
+            "author": "Stephanie Stacey",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1d48e0b0-a690-491c-9f8f-c441880eddb0.jpg?source=next-barrier-page",
+            "description": "Wholesale inflation falls, but economists warn businesses are yet to pass on the higher costs of trade levies",
+            "source": {
+                "name": "Financial Times",
+                "id": null
+            },
+            "title": "US producer prices tumble in April as tariffs squeeze profit margins - Financial Times",
+            "url": "https://www.ft.com/content/0015272d-f764-436d-b96a-9993c1a867c0",
+            "content": "Complete digital access to quality analysis and expert insights, complemented with our award-winning Weekend Print edition.\r\n<ul><li><\/li>Everything in Print<li><\/li>Weekday Print Edition<li><\/li>FT \u2026 [+202 chars]"
+        },
+        {
+            "publishedAt": "2025-05-15T14:25:59Z",
+            "author": "Bill McColl",
+            "urlToImage": "https://www.investopedia.com/thmb/WsC97xTN9fG9RIamkhn0Xdi9pcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2214519952-e69c1727bdae479f926aa2903f972dd2.jpg",
+            "description": "U.S.-listed shares of Alibaba Group dropped Thursday as the e-commerce giant missed profit and sales forecasts on slowing consumer spending in China and tougher competition.",
+            "source": {
+                "name": "Investopedia",
+                "id": null
+            },
+            "title": "Alibaba Misses Forecasts on Chinese Consumer Slowdown, Competition - Investopedia",
+            "url": "https://www.investopedia.com/alibaba-misses-forecasts-on-chinese-consumer-slowdown-competition-11735349",
+            "content": "<ul><li>Alibaba missed profit and sales forecasts on slowing consumer spending in China and tougher competition.<\/li><li>The e-commerce and cloud computing giant posted revenue gains in all of its di\u2026 [+1088 chars]"
+        },
+        {
+            "publishedAt": "2025-05-15T14:12:00Z",
+            "author": "Barron's",
+            "urlToImage": null,
+            "description": null,
+            "source": {
+                "name": "Barron's",
+                "id": null
+            },
+            "title": "UnitedHealth Stock Selloff Deepens on Report of Medicare Fraud Investigation. It Got Worse. - Barron's",
+            "url": "https://www.barrons.com/articles/unitedhealth-stock-price-fall-medicare-fraud-investigation-302faa08",
+            "content": null
+        },
+        {
+            "publishedAt": "2025-05-15T14:01:00Z",
+            "author": "Barron's",
+            "urlToImage": null,
+            "description": null,
+            "source": {
+                "name": "Barron's",
+                "id": null
+            },
+            "title": "Super Micro Was the Most-Shorted S&P 500 Stock in April. Why Shares Are Falling. - Barron's",
+            "url": "https://www.barrons.com/articles/smci-stock-price-falls-super-micro-ai-d4510ff7",
+            "content": null
+        },
+        {
+            "publishedAt": "2025-05-15T13:50:53Z",
+            "author": "Sandee LaMotte, CNN",
+            "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/a17317729cb2b3e5347449e29cbe484e",
+            "description": "One in four rice samples from more than 100 different store brands contained dangerous levels of arsenic, a new investigation found. Here\u2019s what to do.",
+            "source": {
+                "name": "CNN",
+                "id": "cnn"
+            },
+            "title": "First on CNN: Dangerously high levels of arsenic and cadmium found in store-bought rice, report finds - Yahoo",
+            "url": "https://www.cnn.com/2025/05/15/health/arsenic-cadmium-rice-wellness",
+            "content": "Samples of store-bought rice from more than 100 different brands purchased in the United States contained dangerously high levels of arsenic and cadmium, according to a new report shared first with C\u2026 [+10730 chars]"
+        },
+        {
+            "publishedAt": "2025-05-15T12:53:59Z",
+            "author": "Courtenay Brown",
+            "urlToImage": "https://images.axios.com/BcxSce8odFdFjuu_Ds06jDPcoMQ=/0x497:8368x5204/1366x768/2025/05/15/1747312123530.jpg",
+            "description": "Shopping notably moderated after consumers front-loaded purchases in March to avoid tariffs.",
+            "source": {
+                "name": "Axios",
+                "id": "axios"
+            },
+            "title": "Consumers eased spending in April after tariff front-loading - Axios",
+            "url": "https://www.axios.com/2025/05/15/retail-sales-april-tariffs-consumers",
+            "content": "American consumers slowed spending in April after a tariff-fueled purchasing boom, the Commerce Department said on Thursday.\r\nWhy it matters: Shopping moderated notably after consumers front-loaded p\u2026 [+1043 chars]"
+        },
+        {
+            "publishedAt": "2025-05-15T12:40:24Z",
+            "author": "Jeff Cox",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108146058-1747317536702-gettyimages-2214582421-AFP_46U98PY.jpeg?v=1747317556&w=1920&h=1080",
+            "description": "Powell said Thursday that longer-term interest rates are likely to be higher as the economy changes and policy is in flux.",
+            "source": {
+                "name": "CNBC",
+                "id": null
+            },
+            "title": "Fed's Powell cautions about higher long-term rates as 'supply shocks' provide policy challenges - CNBC",
+            "url": "https://www.cnbc.com/2025/05/15/feds-powell-cautions-about-higher-long-term-rates-as-supply-shocks-provide-policy-challenges.html",
+            "content": "Federal Reserve Chair Jerome Powell said Thursday that longer-term interest rates are likely to be higher as the economy changes and policy is in flux.\r\nIn remarks that focused on the central bank's \u2026 [+4137 chars]"
+        },
+        {
+            "publishedAt": "2025-05-15T12:16:00Z",
+            "author": "Elaine Kurtenbach",
+            "urlToImage": "https://dims.apnews.com/dims4/default/9fad981/2147483647/strip/true/crop/7129x4010+0+371/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fca%2Fd9%2F819d0760b318c7d7845b235625b9%2F2797a6c1c6084ff19170df5aec5fa26a",
+            "description": "China has taken aim at a new U.S. rule against use anywhere in the world of Ascend computer chips made by Huawei Technologies. A Chinese Commerce Ministry official also lashed out against U.S. tariffs on imports of Chinese steel and aluminum, which have not g\u2026",
+            "source": {
+                "name": "Associated Press",
+                "id": "associated-press"
+            },
+            "title": "China blasts new US rule banning use of Huawei\u2019s Ascend advanced computer chips - AP News",
+            "url": "https://apnews.com/article/china-trade-tariffs-steel-huawei-c7c1c82ac65f1b82024a7b07e8505c37",
+            "content": "China has blasted a new U.S. rule against use of Ascend computer chips made by Huawei Technologies anywhere in the world, chafing Thursday against the limitations of a temporary truce in the trade wa\u2026 [+2734 chars]"
+        },
+        {
+            "publishedAt": "2025-05-15T12:03:00Z",
+            "author": "Matt Sedensky, The Associated Press",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/05/AP25133861635902-e1747310451435.jpg?resize=1200,600",
+            "description": "People 60 and older hold an estimated $125 billion in student loans, according to the National Consumer Law Center, a six-fold increase from 20 years ago.",
+            "source": {
+                "name": "Fortune",
+                "id": "fortune"
+            },
+            "title": "Retired child welfare worker, 73, about to be hit again with 40-year-old student loan debt - Fortune",
+            "url": "https://fortune.com/2025/05/15/retired-child-welfare-worker-73-hit-again-40-year-old-student-loan-debt/",
+            "content": null
+        }
+    ],
+    "status": "ok"
+}}

@@ -1,0 +1,103 @@
+{
+    "Kings_League_Brazil": {
+        "campeonato": "Kings League Brazil",
+        "time": "FURIA FC",
+        "presidente": "Neymar Jr.",
+        "data_inicio": "29 de mar\u00e7o",
+        "data_fim": "5 de maio",
+        "resultados": [
+            {
+                "data": "29 de mar\u00e7o",
+                "oponente": "Dendele FC",
+                "resultado": "0\u20131"
+            },
+            {
+                "data": "30 de mar\u00e7o",
+                "oponente": "FC Real Elite",
+                "resultado": "2\u20130"
+            },
+            {
+                "data": "7 de abril",
+                "oponente": "Nyvelados FC",
+                "resultado": "1\u20131"
+            },
+            {
+                "data": "14 de abril",
+                "oponente": "LOUD SC",
+                "resultado": "1\u20130"
+            },
+            {
+                "data": "21 de abril",
+                "oponente": "G3X FC",
+                "resultado": "3\u20130"
+            },
+            {
+                "data": "26 de abril",
+                "oponente": "Desimpedidos Goti",
+                "resultado": "2\u20130"
+            },
+            {
+                "data": "28 de abril",
+                "oponente": "Capim FC",
+                "resultado": "2\u20131"
+            },
+            {
+                "data": "3 de maio",
+                "oponente": "Fluxo FC",
+                "resultado": "1\u20131"
+            },
+            {
+                "data": "5 de maio",
+                "oponente": "Funkbol Clube",
+                "resultado": "2\u20130"
+            }
+        ],
+        "playoffs": {
+            "data_inicio": "8 de maio",
+            "data_fim": "14 de maio"
+        }
+    },
+    "CS_GO": {
+        "campeonatos": [
+            {
+                "nome": "IEM Katowice 2025",
+                "fase": "Play-In",
+                "data_inicio": "n\u00e3o dispon\u00edvel",
+                "resultado": "Vit\u00f3ria sobre Imperial feminina e Wildcard"
+            },
+            {
+                "nome": "PGL Bucharest 2025",
+                "fase": "Fase de Grupos",
+                "data_inicio": "5 de abril",
+                "data_fim": "13 de abril",
+                "resultado": "Derrota para a Natus Vincere e elimina\u00e7\u00e3o para Astralis"
+            },
+            {
+                "nome": "BLAST.tv Austin Major 2025",
+                "fase": "Fase 1",
+                "data_inicio": "n\u00e3o dispon\u00edvel",
+                "resultado": "Classifica\u00e7\u00e3o garantida"
+            }
+        ]
+    },
+    "PUBG": {
+        "campeonatos": [
+            {
+                "nome": "PUBG Global Championship 2025",
+                "fase": "n\u00e3o dispon\u00edvel",
+                "data_inicio": "n\u00e3o dispon\u00edvel",
+                "resultado": "n\u00e3o dispon\u00edvel"
+            }
+        ]
+    },
+    "Valorant": {
+        "campeonatos": [
+            {
+                "nome": "Kickoff Americas 2025",
+                "fase": "Eliminat\u00f3rias",
+                "data_inicio": "n\u00e3o dispon\u00edvel",
+                "resultado": "Elimina\u00e7\u00e3o pela Evil Geniuses com derrota por 2\u20130"
+            }
+        ]
+    }
+}
